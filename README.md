@@ -2,6 +2,7 @@
 Utilizing financial Python programming and machine learning, an algorithmic trading bot is created that has the ability to learn and adapt to new data and evolving markets.
 
 # Technologies
+![](https://github.com/JEKlektik/Mod_14/blob/8c0fe97761f94c4fb4fa8c8db2ce492ed5aff14e/Mod_14_Technologies.png)
 
 # Instructions
 - Establish a Baseline Performance
